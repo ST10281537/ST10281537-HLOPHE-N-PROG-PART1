@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ST10281537 HLOPHE N PROG PART1", "ST10281537 HLOPHE N PROG PART1\ST10281537 HLOPHE N PROG PART1.csproj", "{6933A335-D869-46A4-881A-1B57773ECB0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6933A335-D869-46A4-881A-1B57773ECB0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6933A335-D869-46A4-881A-1B57773ECB0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6933A335-D869-46A4-881A-1B57773ECB0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6933A335-D869-46A4-881A-1B57773ECB0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10929DCE-48B6-4B68-8299-EFC86EF5AD45}
+	EndGlobalSection
+EndGlobal
